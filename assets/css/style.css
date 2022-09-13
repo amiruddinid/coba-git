@@ -1,0 +1,30 @@
+body{
+    margin:0;
+}
+.navbar{
+    display:flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: skyblue;
+    color:white;
+    padding:10px;
+}
+.logo{
+    font-weight:bold;
+}
+.navbar ul{
+    list-style: none;
+    margin:0;
+    padding:0;
+    display: flex;
+}
+.navbar ul li{
+    padding:10px;
+}
+.navbar ul a{
+    color:white;
+    text-decoration: none;
+}
+.carousel img{
+    width:100%;
+}

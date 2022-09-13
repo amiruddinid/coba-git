@@ -1,0 +1,26 @@
+.navbar-transparent{
+    background-color: transparent;
+    z-index: 1;
+}
+.carousel{
+    margin-top:-56px;
+}
+.btn-primary{
+    background: #5CB85F;
+    border-color: #5CB85F;
+}
+.btn-primary:hover {
+    color: #5CB85F;
+    background-color: #fff;
+    border-color: #5CB85F;
+}
+.btn-green{
+    color:#fff;
+    background: #5CB85F;
+    border-color: #5CB85F;
+}
+.btn-green:hover {
+    color: #5CB85F;
+    background-color: #fff;
+    border-color: #5CB85F;
+}
